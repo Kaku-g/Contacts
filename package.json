@@ -2,7 +2,6 @@
   "name": "scroll",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kaku-g.github.io",
   "proxy": "https://randomuser.me",
   "dependencies": {
     "@emotion/react": "^11.10.0",
