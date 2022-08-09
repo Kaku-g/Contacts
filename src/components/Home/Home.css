@@ -1,0 +1,22 @@
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+      margin-top: 7%;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .container {
+      margin-top: 12%;
+    }
+  }
+
+
+
+  
